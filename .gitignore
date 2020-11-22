@@ -1,0 +1,15 @@
+frontend/.idea/
+frontend/.vscode/
+frontend/node_modules/
+frontend/build
+frontend/b.DS_Store
+frontend/b*.tgz
+frontend/bmy-app*
+frontend/btemplate/src/__tests__/__snapshots__/
+frontend/blerna-debug.log
+frontend/bnpm-debug.log*
+frontend/byarn-debug.log*
+frontend/byarn-error.log*
+frontend/b/.changelog
+frontend/b.npm/
+frontend/byarn.lock
